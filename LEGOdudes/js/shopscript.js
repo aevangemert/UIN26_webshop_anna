@@ -84,3 +84,5 @@ function addToCart(prodid) {
     showCart()
 }
 
+console.log('Node.js is working!');
+
